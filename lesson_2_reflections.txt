@@ -1,0 +1,10 @@
+What happens when you initialize a repoositry? Why do you need to do it?
+
+    A .git folder is created inside the directory. Ah! you need something to be done to 
+    get it worked with git and initialization can be the best option...
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+    
+    Staging area is where you are putting things to be committed. What is to be committed
+    is in your staging area not in working directory.
