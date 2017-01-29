@@ -1,1 +1,10 @@
-When you would like to create a remote repository rather than keeping all your work local?
+When you would like to create a remote repository rather than keeping all your
+work local?
+    For me it has to do with efficiently and stichlessly working across all the 
+    machines I have. By way of commit, push and pull all are in sink...
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+    I am in control what I want to have locally. moreover nothing should break my system
+    without my knowledge.
