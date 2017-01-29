@@ -8,3 +8,9 @@ repository? What value do you think it offers?
     
     Staging area is where you are putting things to be committed. What is to be committed
     is in your staging area not in working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Once adding file to staging area (diff add), we can cross check through git diff which
+    now looks for any changes in working directory and Staging area. If find it logical
+    to commit we can do that, otherwise we can revert back.
