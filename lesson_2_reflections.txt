@@ -14,3 +14,9 @@ How can you use the staging area to make sure you have one commit per logical ch
     Once adding file to staging area (diff add), we can cross check through git diff which
     now looks for any changes in working directory and Staging area. If find it logical
     to commit we can do that, otherwise we can revert back.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    Particularly when we are trying some experimenta thing and dont want to disturb
+    original settings, its better to branch out and go with the experiment...
