@@ -1,0 +1,9 @@
+On second thought...
+---------------------
+
+How the hash value is being calculated for its content ?
+
+How checksumming (SHA-1 hash) in git helps ?
+    before storing any file git checksummed it and refer it by that checksum.
+    this way nothing happens without git knowing it. can't lose information in
+    transit or file get corrupt without git knowing it.
