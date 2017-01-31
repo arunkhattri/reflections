@@ -1,0 +1,15 @@
+git common commands
+---------------------
+
+Identity:
+    git config --global user.name "John Doe"
+    git config --global user.email jonndoe@example.com
+
+Editor:
+    git config --global core.editor emacs
+
+Checking your settings:
+    git config --list
+
+    to check specific key's value:
+        git config user.name
